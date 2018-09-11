@@ -1,0 +1,42 @@
+<html>
+<head>
+  <title>ChassiDex</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="icon" type="image/png" href="/assets/icons/chassidex.png" />
+  <link rel="stylesheet" type="text/css" href="/assets/styles/index.css">
+</head>
+<body>
+  <section id="cover">
+    <img src="/assets/icons/chassidex.png" style="width: 35mm; height: auto;">
+    <br>
+    <h1>
+      Welcome to ChassiDex
+    </h1>
+    <br>
+    <p>
+      ChassiDex is a database of host organisms used in synthetic biology.
+      Under each host organism, all the information a synthetic biologist would
+      need to work with that organism is listed. We also work on software tools to make
+      working with different hosts easier.
+      <br><br>
+      Scroll below to view our list of organisms
+    </p>
+  </section>
+  <section id="hosts">
+    <h1>Host organisms</h1>
+    {% for host in data %}
+      <a class="hostlink{{host.color}}" href="/hosts/{{ host.file }}">{{ host.name }}</a>
+    {% endfor %}
+    <h1>We need data contributors</h1>
+    <div></div>
+    <p>
+      If you are working on a host organism that is not indexed here, you can help by
+      contributing data. Please fill this
+      <a href="http://goo.gl/forms/b5tDcKSiTRYXFMxt2">form</a>
+      and we will get back to you.
+    </p>
+    <div></div>
+  </section>
+</body>
+</html>

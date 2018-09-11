@@ -1,0 +1,149 @@
+@font-face {
+  src: url('/assets/fonts/gir.otf');
+  font-family: sans-font;
+}
+@font-face {
+  src: url('/assets/fonts/inconsolata.otf');
+  font-family: mono-font;
+}
+* {
+  box-sizing: border-box;
+}
+body{
+  border: 0mm;
+  margin: 0mm;
+  font-family: sans-font;
+}
+header{
+  background: #05080a;
+  padding: 4mm;
+  position: fixed;
+  width: 100vw;
+  z-index: 10;
+}
+header a{
+  text-decoration: none;
+  color: #ffffff;
+}
+header img{
+  height: 7mm;
+  width: auto;
+}
+section{
+  width: 100%;
+  padding: 20mm 5mm 5mm 80mm;
+}
+section p.title{
+  color: #33994d;
+  font-size: 10mm;
+  font-style: italic;
+}
+nav{
+  display: inline-block;
+  position: fixed;
+  top:  0mm;
+  left: 0mm;
+  width: 75mm;
+  height: 100vh;
+  background: #33994d;
+  z-index: 1;
+  padding-top: 20mm;
+}
+nav button{
+  border: none;
+  outline: none;
+  background: none;
+  display: block;
+  width: 100%;
+  font-size: 5mm;
+  font-family: sans-font;
+  padding: 2mm 5mm;
+  color: #ffffff;
+  text-align: left;
+}
+nav button:hover{
+  cursor: pointer;
+  cursor: hand;
+  background: #ffffff;
+  color: #33994d;
+}
+@media only screen and (max-width: 200mm) {
+  nav{
+    display: none;
+  }
+  section{
+    padding-left: 5mm;
+  }
+}
+/* Markdown styling */
+h1 {
+  padding: 0px;
+  margin: 0px;
+  font-size: 8mm;
+  padding-top: 10mm;
+  margin-top: 10mm;
+  margin-bottom: 4mm;
+  font-weight: normal;
+  color: #33994d;
+}
+h1:first-child {
+  margin-top: 0px;
+}
+
+h2,h3,h4,h5,h6 {
+  padding: 0px;
+  margin: 0px;
+  margin-top: 2mm;
+  font-weight: normal;
+  color: #33994d;
+  font-size: 6mm;
+}
+
+section a {
+  color: #33994d;
+  word-wrap: break-word;
+}
+
+section mark {
+  background: none;
+  display: inline-block;
+  padding: 2mm;
+  color: #33994d;
+  padding: 2mm 4mm 3mm 4mm;
+  margin: 1mm 1mm 1mm 0mm;
+  font-size: 5mm;
+  border: 0.3mm solid #33994d;
+  border-radius: 1mm;
+}
+
+
+p,ul,ol {
+  padding: 0px;
+  margin: 0px;
+  font-size: 5mm;
+  text-align: left;
+}
+
+ul,ol{
+  padding-left: 6mm;
+  text-align: left;
+}
+
+
+@media only screen and (max-width: 200mm) {
+  h1{
+    font-size: 6.5mm;
+  }
+  h2,h3,h4,h5,h6{
+    font-size: 5.5mm;
+  }
+  p,ul,ol{
+    font-size: 4.5mm;
+  }
+  mark {
+    font-size: 4mm;
+  }
+  section p.title{
+    font-size: 7.5mm;
+  }
+}

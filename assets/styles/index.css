@@ -1,0 +1,119 @@
+@font-face {
+  src: url('/assets/fonts/gir.otf');
+  font-family: sans-font;
+}
+@font-face {
+  src: url('/assets/fonts/inconsolata.otf');
+  font-family: mono-font;
+}
+* {
+  box-sizing: border-box;
+}
+body{
+  border: 0mm;
+  margin: 0mm;
+  font-family: sans-font;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+section {
+  display: inline-block;
+  padding: 5mm;
+}
+#cover{
+  grid-column: span 2;
+  background: #05080a;
+  background: url('/assets/coverbg.png');
+  background-attachment: fixed;
+  text-align: center;
+  color: #ffffff;
+  padding: 40mm 5mm;
+}
+#cover h1{
+  display: inline-block;
+  padding: 2mm 5mm;
+  background: #ffffff;
+  color: #05080a;
+  font-weight: normal;
+  border-radius: 10mm;
+}
+#cover p{
+  display: inline-block;
+  font-size: 6mm;
+  max-width: 150mm;
+  padding: 5mm 3mm;
+  background: rgba(0,0,0,0.8);
+  border-radius: 3mm;
+  border: 0.2mm solid #ffffff;
+}
+#hosts{
+  grid-column: span 2;
+  padding: 20mm;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-content: center;
+}
+#hosts h1{
+  grid-column: span 4;
+  font-weight: normal;
+  color: #05080a;
+  text-align: center;
+  font-size: 7.5mm;
+}
+#hosts p{
+  grid-column: span 2;
+  color: #05080a;
+  text-align: center;
+  font-size: 5mm;
+}
+#hosts p a{
+  color: currentColor;
+}
+.hostlink1, .hostlink2, .hostlink3, .hostlink4{
+  display: inline-block;
+  padding: 5mm 2mm;
+  text-decoration: none;
+  background: #05080a;
+  color: #ffffff;
+  font-style: italic;
+  text-align: center;
+  margin: 2mm;
+}
+.hostlink1{
+  background: #903030;
+}
+.hostlink2{
+  background: #306090;
+}
+.hostlink3{
+  background: #5d3399;
+}
+.hostlink4{
+  background: #33994d;
+}
+body>h1{
+  font-weight: normal;
+  color: #ffffff;
+  text-align: center;
+  grid-column: span 2;
+  font-size: 7.5mm;
+  background: #05080a;
+  margin: 0px;
+  padding: 5mm;
+}
+@media only screen and (max-width: 200mm) {
+  body{
+    display: block;
+  }
+  section {
+    display: block;
+  }
+  #hosts {
+    display: block;
+    padding: 5mm;
+  }
+  .hostlink1, .hostlink2, .hostlink3, .hostlink4{
+    display: block;
+    margin: 5mm 0mm;
+  }
+}
