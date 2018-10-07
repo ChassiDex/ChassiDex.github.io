@@ -5,6 +5,7 @@ import os
 data_folder = 'data/'
 data_files = sorted(os.listdir(data_folder))
 data = []
+listbytag = {}
 renderer = mistune.Renderer(escape=True, hard_wrap=True)
 markdown = mistune.Markdown(renderer=renderer)
 output_folder = 'hosts/'
@@ -42,9 +43,20 @@ for host in data:
         f.close()
         print('Wrote ' + file)
 
+# list by tags
+for i in range(len(data)):
+    for tag in data[i]['tags']:
+        if tag in listbytag.keys():
+            listbytag[tag].append(i)
+        else:
+            listbytag[tag] = [i]
+
+tagslist = list(listbytag.keys())
+tagslist.sort()
+
 # render home page
 with open('index.html','w') as f:
-    html = indextemplate.render(data=data)
+    html = indextemplate.render(data=data,tagslist=tagslist,listbytag=listbytag)
     f.write(html)
     f.close()
     print('\nWrote index.html')

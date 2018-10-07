@@ -28,6 +28,13 @@
     {% for host in data %}
       <a class="hostlink{{host.color}}" href="/hosts/{{ host.file }}">{{ host.name }}</a>
     {% endfor %}
+    <h1>Browse by tags</h1>
+    {% for tag in tagslist%}
+      <h2 id="{{tag}}">#{{tag}}</h2>
+      {% for i in listbytag[tag] %}
+      <a class="hostlink{{data[i].color}}" href="/hosts/{{data[i].file}}">{{data[i].name}}</a>
+      {% endfor %}
+    {% endfor %}
     <h1>We need data contributors</h1>
     <div></div>
     <p>

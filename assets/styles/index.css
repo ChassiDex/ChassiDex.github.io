@@ -51,7 +51,6 @@ section {
   padding: 20mm;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  justify-content: center;
 }
 #hosts h1{
   grid-column: span 4;
@@ -59,6 +58,15 @@ section {
   color: #05080a;
   text-align: center;
   font-size: 7.5mm;
+  margin-top: 20mm
+}
+#hosts h2{
+  grid-column: span 4;
+  font-weight: normal;
+  color: #05080a;
+  text-align: center;
+  font-size: 5.5mm;
+  margin-top: 15mm;
 }
 #hosts p{
   grid-column: span 2;

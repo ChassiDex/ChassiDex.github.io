@@ -18,7 +18,7 @@
     <p class="title">{{name}}</p>
     <p class="tags">
     {% for tag in tags %}
-      <a href="">{{tag}}</a>
+      <a href="/#{{tag}}">{{tag}}</a>
     {% endfor %}
     </p>
     {{markdown|safe}}
