@@ -1,10 +1,10 @@
 ---
 name: Acinetobacter baylyi
 color: 1
+tags: prokaryotic, aerobic, gram-negative, naturally-competent
 ---
 # About
 
-**prokaryotic** **aerobic** **gram-negative** **naturally-competent**
 
 # Applications
 

@@ -1,9 +1,8 @@
 ---
 name: Escherichia coli
 color: 1
+tags: prokaryotic, facultative-anaerobic, gram-negative
 ---
-# About
-E. coli was first discovered in 1885 by Theodor Escherich, a German bacteriologist. E. coli has since been commonly used for biological lab experiment and research. E. coli is a facultative (aerobic and anaerobic growth) gram-negative, rod shaped bacteria that can be commonly found in animal feces, lower intestines of mammals, and even on the edge of hot springs. They grow best at 37 C. E. coli is a Gram-negative organism that can not sporulate. Therefore, it is easy to eradicate by simple boiling or basic sterilization. E. coli can also be classified into hundreds of strains on the basis of different serotypes. E. coli O157:H7, for example, is a well-studied strain of the bacterium E. coli, which produces Shiga-like toxins, causing severe illness by eating cheese and contaminated meat. Furthermore, enteric E. coli can be classified into six categories based on its virulence properties, such as enterotoxigenic E. coli (ETEC), enteropathogenic E. coli (EPEC), enteroinvasive E. coli (EIEC), enterohemorrageic E. coli (EHEC), enteroadherent aggregative E. coli (EAggEC), and verotoxigenic E. coli (VTEC). These enteric E. coli can cause several intestinal and extra-intestinal infections such as urinary tract infection and mastitis. However, E. coli are not always harmful to human bodies or other animals. Most E. coli live in our intestines, where they help our body breakdown the food we eat as well as assist with waste processing, vitamin K production, and food absorption. Read more at [https://microbewiki.kenyon.edu/index.php/Escherichia_coli](https://microbewiki.kenyon.edu/index.php/Escherichia_coli)
 
 # Growth Characteristics
 

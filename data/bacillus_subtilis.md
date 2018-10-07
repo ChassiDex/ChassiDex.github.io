@@ -1,10 +1,8 @@
 ---
 name: Bacillus subtilis
 color: 2
+tags: prokaryotic, facultative-anaerobic, gram-positive, endosporulating
 ---
-# About
-Bacillus subtilis is a Gram-positive bacterium. It is a facultative anaerobe. It is capable of growing in diverse, tough environments by forming a tough, protective endospore. It is a model organism for the study of cell differentiation in bacteria. B.subtilis' genome is easy to be engineered and it survives under tough conditions.
-
 # Growth Characteristics
 Optimal temperature is 37-degree celsius. The doubling time is 30 min[^gc1]. The optimum pH is 7[^gc2]. It can divide asymmetrically to form an endospore. This sporulation occurs under stressful, nutrient-starved conditions. The endospore is resistant to unfavorable environmental conditions like extreme pH, heat, radiation, etc[^gc3]. B. subtilis grows in certain glucose and nitrogen sources. Some of the growth mediums are: C-minimal medium[^gc4] M9 minimal medium [^gc5] Spizizen minimal medium[^gc6] Long Version Nutrient Agar[^gc7] 2X SG Media[^gc8]
 

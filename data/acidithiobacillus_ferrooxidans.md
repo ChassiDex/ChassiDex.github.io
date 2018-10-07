@@ -1,13 +1,8 @@
 ---
 name: Acidithiobacillus ferrooxidans
 color: 1
+tags: prokaryotic, facultative-anaerobic, chemolithoautotrophic, acidophilic, metal-solubilizing, gram-negative
 ---
-# About
-A. ferrooxidans is a Gram negative rod shaped bacterium that is commonly found in deep caves or acid mine drainage, such as coal waste. These acidophilic bacteria thrive in optimal pH level of 1.5-2.5 where they convert insoluble metals to their soluble state. Even low concentrations (ppm) of these metallic ions would be extremely toxic to other bacteria. In addition, these bacteria have been utilized in industrial bioleaching efforts to extract otherwise unobtainable metals
-
-## References:
-1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000751/
-
 # Growth Characteristics
 The type strain of A. ferrooxidans (ATCC 23270) was grown in DSMZ 71 medium with thiosulfate (containing 22 mM Pi) or in ferrous sulfate containing 9K medium (0.17 mM Pi). In spite of the different Pi concentrations, both media had an excess of Pi for the growth of the microorganisms and they were therefore considered a presence of Pi condition.In control cultures, the Pi salt was not included in the corresponding media. For growth in M-Pn or E-Pn, the Pi salt in each culture medium was replaced with 1 mM concentration of the corresponding phosphonate. Growth was monitored by determining cell numbers under a phase-contrast Olympus BX50 microscope with a Petroff-Hauser counting chamber. Total RNA was extracted when cells reached the late exponential phase of growth.
 

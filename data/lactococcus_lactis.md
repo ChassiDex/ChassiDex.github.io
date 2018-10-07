@@ -1,17 +1,8 @@
 ---
 name: Lactococcus lactis
 color: 2
+tags: prokaryotic, facultative-anaerobic, gram-positive, lactose-fermenting
 ---
-# About
-
-Members of the Lactococcus genus are non-motile, catalase-negative and occur singly, in pair or in chain. They are Gram-positive, facultative anaerobe, and do not form spores. Based on their metabolic stability, resistance to bacteriophage, and the ability to produce unique compounds often from amino acid catabolism, having several fermentation pathways, and due to the phosphoenolpyruvate-phosphotransferase system their most important purpose is its property to manufacture dairy product such as cheese and milk. This ILI403 strain of Lactococcus lactis is diploid. The parent strain of IL1403 has a citrate permease plasmid and is able to metabolize citrate. Lactis subsp. lactis IL1403 is a plasmid-cured strain that lacks lactose transport and utilization genes, the cell envelope protease, a citrate transporter, restriction-modification systems, and other plasmid-encoded features. Dairy industries continue to improve the activities and effectiveness of L. lactis by manipulating its environment and cell behavior.
-
-## References:
-* https://genome.jgi.doe.gov/laccr/laccr.home.html
-* http://www.uniprot.org/proteomes/UP000002196
-* https://microbewiki.kenyon.edu/index.php/Lactococcus_lactis
-
-
 # Growth Characteristics
 Lactococci grows at 28-30 °C in M17 broth (Merck) and is supplemented with either 0.5% (wt/vol) d-glucose (GM17) or 0.5% (wt/vol) d-xylose (XM17) as the sole carbon source for growth of the plasmid-free dairy strain of ILI403. Maintain the stock culture at −85 °C in M17 broth supplemented with 20% (v/v) glycerol. L. lactis IL1403 expressed growth rate in A. thaliana lysate (ATL) was found to be (0.63 h−1). IL1403 reached cell density upto 4.9 × 107 CFU/ml. 5% CO2 in the surrounding atmosphere is ideal.
 

@@ -1,10 +1,8 @@
 ---
 name: Streptococcus thermophilus
 color: 2
+tags: prokaryotic, facultative-anaerobic, gram-positive, probiotic, lactose-fermenting
 ---
-# About
-**prokaryotic** **facultative-anaerobic** **gram-positive** **probiotic** **lactose-fermenting**
-
 # Growth Characteristics
 - Optimum Temperature: 37°C
 - Atmosphere: 5% CO2

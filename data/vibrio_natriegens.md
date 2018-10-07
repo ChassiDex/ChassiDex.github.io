@@ -1,6 +1,7 @@
 ---
 name: Vibrio natriegens
 color: 1
+tags: prokaryotic, facultative-anaerobic, gram-negative, halophilic
 ---
 # About
 **prokaryotic** **facultative-anaerobic** **gram-negative**
@@ -19,7 +20,7 @@ Vibrio natriegens has a doubling time of under 10 min in optimal conditions ( be
 1. Deutsche Sammlung von Mikroorganismen und Zellkulturen (https://www.dsmz.de)
 
 # Parts
-( to be added soon ) 
+( to be added soon )
 
 # Metabolic Models
 1. Metabolism of the fast-growing bacterium Vibrio natriegens elucidated by 13C metabolic flux analysis

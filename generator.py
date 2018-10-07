@@ -28,13 +28,14 @@ for file in data_files:
             key = line.split(':')[0].strip()
             value = line.split(':')[1].strip()
             data_point[key] = value
+        data_point['tags'] = [tag.strip() for tag in data_point['tags'].split(',')]
         data_point['file'] = file[:-2]+'html'
         data_point['rendered_markdown'] = markdown(markdown_content)
         data.append(data_point)
 
 # render host files
 for host in data:
-    html = hosttemplate.render(name=host['name'],color=host['color'],markdown=host['rendered_markdown'])
+    html = hosttemplate.render(name=host['name'],color=host['color'],tags=host['tags'],markdown=host['rendered_markdown'])
     file = output_folder+host['file']
     with open(file,'w') as f:
         f.write(html)

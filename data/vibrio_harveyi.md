@@ -1,6 +1,7 @@
 ---
 name: Vibrio harveyi
 color: 1
+tags: prokaryotic, facultative-anaerobic, gram-negative, halophilic
 ---
 # About
 This bacteria is an advantageous good engineerable chassis because it can respond to several quorum sensing molecule.

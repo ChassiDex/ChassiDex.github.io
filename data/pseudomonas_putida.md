@@ -1,6 +1,7 @@
 ---
 name: Pseudomonas putida
 color: 1
+tags: prokaryotic, aerobic, gram-negative
 ---
 # About
 

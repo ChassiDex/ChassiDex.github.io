@@ -38,6 +38,18 @@ section p.title{
   font-size: 10mm;
   font-style: italic;
 }
+section p.tags{
+  margin-top: 5mm;
+}
+section p.tags a{
+  display: inline-block;
+  text-decoration: none;
+  background: #306090;
+  color: #ffffff;
+  padding: 2mm 5mm;
+  border-radius: 6mm;
+  margin-right: 2mm;
+}
 nav{
   display: inline-block;
   position: fixed;

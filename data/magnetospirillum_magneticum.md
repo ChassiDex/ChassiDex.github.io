@@ -1,13 +1,8 @@
 ---
 name: Magnetospirillum magneticum
 color: 1
+tags: prokaryotic, facultative-anaerobic, gram-negative, magnetotactic
 ---
-# About
-Magnetospirillum magneticum AMB-1 naturally takes in iron to form magnetosomes, a membranous organelle that allows the organism to align with a magnetic field. This organelle helps the strain navigate towards optimal, microaerophillic environmental conditions. By varying culturing conditions, researchers are able to control magnetosome formation. Researchers have used magnetic bacteria to determine magnetic poles in meteorites and rocks, to synthesize gold nanoparticles, and to serve as nanorobot. Potential applications include removal of heavy metal and radionuclides, enzyme immobilization, and oxygen depletion measurement.
-
-## References:
-1. http://europepmc.org/abstract/med/22579104
-
 # Growth Characteristics
 AMB-1 demonstrates optimal growth in microaerophillic conditions. However, devices designed to precisely limit oxygen content of the plate are expensive and not easily accessible to most iGEM teams. The above figure displays effective, low cost techniques to plate AMB-1 microaerophillically that are more effective than published methods
 
