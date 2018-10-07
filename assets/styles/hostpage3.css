@@ -49,6 +49,7 @@ section p.tags a{
   padding: 2mm 5mm;
   border-radius: 6mm;
   margin-right: 2mm;
+  margin-bottom: 2mm;
 }
 nav{
   display: inline-block;
