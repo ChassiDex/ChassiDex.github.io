@@ -3,9 +3,6 @@ name: Acinetobacter baylyi
 color: 1
 tags: prokaryotic, aerobic, gram-negative, naturally-competent
 ---
-# About
-
-
 # Applications
 
 It is a non-pathogenic, nutrionally versatile, naturally competent organism that can be used in various applications.
