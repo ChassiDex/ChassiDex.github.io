@@ -3,14 +3,6 @@ name: Lactococcus lactis
 color: 2
 tags: prokaryotic, facultative-anaerobic, gram-positive, lactose-fermenting
 ---
-# Growth Characteristics
-Lactococci grows at 28-30 °C in M17 broth (Merck) and is supplemented with either 0.5% (wt/vol) d-glucose (GM17) or 0.5% (wt/vol) d-xylose (XM17) as the sole carbon source for growth of the plasmid-free dairy strain of ILI403. Maintain the stock culture at −85 °C in M17 broth supplemented with 20% (v/v) glycerol. L. lactis IL1403 expressed growth rate in A. thaliana lysate (ATL) was found to be (0.63 h−1). IL1403 reached cell density upto 4.9 × 107 CFU/ml. 5% CO2 in the surrounding atmosphere is ideal.
-
-References:
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2812979/
-* http://jb.asm.org/content/197/2/371.full
-* https://www.atcc.org/Products/All/19435.aspx#culturemethod
-
 # Maintenance Protocols
 1. Media and growth conditions for Lactococcus lactis :
 http://classrooms.tacoma.k12.wa.us/wilson/vrehberg/documents/download/agar_multitype_basic_protocols.pdf?id=145903

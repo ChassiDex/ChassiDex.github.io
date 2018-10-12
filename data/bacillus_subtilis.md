@@ -3,10 +3,6 @@ name: Bacillus subtilis
 color: 2
 tags: prokaryotic, facultative-anaerobic, gram-positive, endosporulating
 ---
-# Growth Characteristics
-Optimal temperature is 37-degree celsius. The doubling time is 30 min[^gc1]. The optimum pH is 7[^gc2]. It can divide asymmetrically to form an endospore. This sporulation occurs under stressful, nutrient-starved conditions. The endospore is resistant to unfavorable environmental conditions like extreme pH, heat, radiation, etc[^gc3]. B. subtilis grows in certain glucose and nitrogen sources. Some of the growth mediums are: C-minimal medium[^gc4] M9 minimal medium [^gc5] Spizizen minimal medium[^gc6] Long Version Nutrient Agar[^gc7] 2X SG Media[^gc8]
-
-
 # Culture sources
 
 1. ATCC: https://www.atcc.org/en/Products/Collections/Preceptrol_Cultures/23857.aspx#generalinformation
@@ -26,8 +22,8 @@ Optimal temperature is 37-degree celsius. The doubling time is 30 min[^gc1]. The
 3. How To Bacillus subtilis: http://2016.igem.org/wiki/images/7/74/T--UBonn_HBRS--How-To-Bacillus-Subtilis.pdf
 
 # Other Protocols
-[1] Cell disruption and extraction of RNA: http://subtiwiki.uni-goettingen.de/wiki/images/8/82/SOP-RNA.pdf
-[2] Transpoon mutagenesis: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3264109/
+1. Cell disruption and extraction of RNA: http://subtiwiki.uni-goettingen.de/wiki/images/8/82/SOP-RNA.pdf
+2. Transpoon mutagenesis: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3264109/
 
 # Biobrick Parts
 1. BBa_I742123: http://parts.igem.org/Part:BBa_I742123

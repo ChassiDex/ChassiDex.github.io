@@ -3,12 +3,6 @@ name: Acidithiobacillus ferrooxidans
 color: 1
 tags: prokaryotic, facultative-anaerobic, chemolithoautotrophic, acidophilic, metal-solubilizing, gram-negative
 ---
-# Growth Characteristics
-The type strain of A. ferrooxidans (ATCC 23270) was grown in DSMZ 71 medium with thiosulfate (containing 22 mM Pi) or in ferrous sulfate containing 9K medium (0.17 mM Pi). In spite of the different Pi concentrations, both media had an excess of Pi for the growth of the microorganisms and they were therefore considered a presence of Pi condition.In control cultures, the Pi salt was not included in the corresponding media. For growth in M-Pn or E-Pn, the Pi salt in each culture medium was replaced with 1 mM concentration of the corresponding phosphonate. Growth was monitored by determining cell numbers under a phase-contrast Olympus BX50 microscope with a Petroff-Hauser counting chamber. Total RNA was extracted when cells reached the late exponential phase of growth.
-
-## References:
-1. http://aem.asm.org/content/74/6/1829.full
-
 # Culture Sources
 1. ATCC 23270: https://www.atcc.org/products/all/23270.aspx#generalinformation
 
