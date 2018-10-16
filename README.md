@@ -10,8 +10,8 @@ The static site is deployed using netlify.com under our custom domain chassidex.
 
 # Wiki links
 ChassiDex started out as an iGEM project by Team IIT-Madras under the software track in 2017 and we are continuing the work as a cross track software project in 2018 though we are working on foundational advance.
-2017 wiki: http://2017.igem.org/Team:IIT-Madras
-2018 wiki: http://2018.igem.org/Team:IIT-Madras
+- 2017 wiki: http://2017.igem.org/Team:IIT-Madras
+- 2018 wiki: http://2018.igem.org/Team:IIT-Madras
 
 # Contact Us
 - igem@smail.iitm.ac.in
