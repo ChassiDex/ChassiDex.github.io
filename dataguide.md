@@ -1,16 +1,16 @@
 # ChassiDex Data Curation Guide
 
-### [0. Color code](#0-color-code)
+### [0. Color code](https://github.com/ChassiDex/chassidex/blob/master/dataguide.md#0-color-code)
 
-### [1. General Information](#1-general-information)
+### [1. General Information](https://github.com/ChassiDex/chassidex/blob/master/dataguide.md#1-general-information)
 
-### [2. Physiology](#2-physiology)
+### [2. Physiology](https://github.com/ChassiDex/chassidex/blob/master/dataguide.md#2-physiology)
 
-### [3. Materials](#3-materials)
+### [3. Materials](https://github.com/ChassiDex/chassidex/blob/master/dataguide.md#3-materials)
 
-### [4. Protocols](#4-protocols)
+### [4. Protocols](https://github.com/ChassiDex/chassidex/blob/master/dataguide.md#4-protocols)
 
-### [5. Data](#5-data)
+### [5. Data](https://github.com/ChassiDex/chassidex/blob/master/dataguide.md#5-data)
 
 ## 0. Color code
 All organisms on ChassiDex are color coded. 
