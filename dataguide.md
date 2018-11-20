@@ -1,17 +1,17 @@
 # ChassiDex Data Curation Guide
 
 ## Index
-[0.Color code](#0-color-code)
+### [0. Color code](#0-color-code)
 
-[1. General Information](#1-general-information)
+### [1. General Information](#1-general-information)
 
-[2. Physiology](#2-physiology)
+### [2. Physiology](#2-physiology)
 
-[3. Materials](#3-materials)
+### [3. Materials](#3-materials)
 
-[4. Protocols](#4-protocols)
+### [4. Protocols](#4-protocols)
 
-[5. Data](#5-data)
+### [5. Data](#5-data)
 
 ## 0. Color code
 All organisms on ChassiDex are color coded. 
