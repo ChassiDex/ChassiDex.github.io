@@ -1,6 +1,5 @@
 # ChassiDex Data Curation Guide
 
-## Index
 ### [0. Color code](#0-color-code)
 
 ### [1. General Information](#1-general-information)
