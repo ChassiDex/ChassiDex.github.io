@@ -29,6 +29,9 @@ http://barricklab.org/twiki/bin/view/Lab/ProtocolList#Acinetobacter_baylyi_ADP1
 - [BBa_K2146005](http://parts.igem.org/Part:BBa_K2146005): *A. baylyi* shuttle vector with amikacin resistance.
 - [BBa_K2146006](http://parts.igem.org/Part:BBa_K2146006): *A. baylyi* shuttle vector with cefotaxime resistance, containing reporter gene gusA
 
+# Whole Cell SBML Model
+* [ADP1](https://www.ebi.ac.uk/biomodels/MODEL1949107276#Overview)
+
 # Genome Sequence
 https://www.ncbi.nlm.nih.gov/nuccore/CR543861.1
 
