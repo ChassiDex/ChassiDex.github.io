@@ -22,7 +22,7 @@ Vibrio natriegens has a doubling time of under 10 min in optimal conditions ( be
 # Parts
 ( to be added soon )
 
-# Metabolic Models
+# Whole Cell Metabolism SBML Models
 1. Metabolism of the fast-growing bacterium Vibrio natriegens elucidated by 13C metabolic flux analysis
 (https://www.sciencedirect.com/science/article/pii/S1096717617302896?via%3Dihub)
 
