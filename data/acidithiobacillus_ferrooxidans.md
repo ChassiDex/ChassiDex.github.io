@@ -27,7 +27,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548112/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000751/
 
 # Whole Cell Metabolism SBML model
-1. strain ATCC 23270 / DSM 14882 / NCIB 8455:
+1. ATCC 23270 / DSM 14882 / NCIB 8455:
 http://www.ebi.ac.uk/biomodels-main/BMID000000141497
 
 # Biobrick Parts
