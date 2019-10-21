@@ -18,5 +18,9 @@ During a normal biofilm lifecycle, planktonic cells in the media adhere to a sur
 # Genome Sequence
 https://www.ncbi.nlm.nih.gov/gene/250766
 
+# Whole Cell Metabolism SBML Models
+* [iPau1129](http://www.bme.virginia.edu/csbl/iPAU1129.xml)
+* [iPae1146](http://www.bme.virginia.edu/csbl/iPAE1146.xml)
+
 # Acknowledgements
 This entry was curated by iGEM 2018 Team SKLMT-China (http://2018.igem.org/Team:SKLMT-China)
