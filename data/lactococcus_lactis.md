@@ -32,5 +32,5 @@ https://www.nature.com/protocolexchange/protocols/287#/procedure
 
 2. pSEUDO: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187151/
 
-# Metabolic Models
-1. Genome scale flux model: https://bmcmicrobiol.biomedcentral.com/articles/10.1186/1471-2180-5-39
+# Whole Cell Metabolism SBML Models
+* [cremoris NZ9000](http://www.ebi.ac.uk/biomodels-main/BMID000000142073)
