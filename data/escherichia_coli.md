@@ -30,7 +30,7 @@ https://www.atcc.org/products/all/25922.aspx
 # Vectors
 [1] pBR322: [http://bccm.belspo.be/catalogues/files/lmbp-plasmids/p140.pdf](http://bccm.belspo.be/catalogues/files/lmbp-plasmids/p140.pdf)
 
-# Metabolic models
+# Whole Cell Metabolism SBML models
 * [iECD_1391](http://bigg.ucsd.edu/models/iECD_1391)
 * [iB21_1397](http://bigg.ucsd.edu/models/iB21_1397)
 * [K12](http://www.ebi.ac.uk/biomodels-main/BMID000000141304) 
