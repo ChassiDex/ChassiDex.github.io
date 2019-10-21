@@ -7,7 +7,7 @@ tags: prokaryotic, aerobic, gram-negative, nitrogen-fixing
 1. ATCC: https://www.atcc.org/products/all/9046.aspx
 
 # Whole Cell Metabolism SBML Model
-1. DJ/ATCC BAA-1303: http://www.ebi.ac.uk/biomodels-main/BMID000000141677
+* [DJ/ATCC BAA-1303](http://www.ebi.ac.uk/biomodels-main/BMID000000141677)
 
 # Biobrick Parts
 1. Strong RBS - BBa_B0034: http://parts.igem.org/Part:BBa_B0034
