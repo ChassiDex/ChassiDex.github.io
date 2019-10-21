@@ -16,3 +16,6 @@ tags: prokaryotic, facultative-anaerobic, gram-positive, probiotic, lactose-ferm
 - Improves oral health, skin health, mucositis
 - May inhibit Diarrhea and Gastritis
 - Increases Folate and Haemoglobin levels
+
+# Whole Cell Metabolism SBML Models
+* [ATCC BAA-250 / LMG 18311](http://www.ebi.ac.uk/biomodels-main/BMID000000141855)
