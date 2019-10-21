@@ -47,6 +47,8 @@ tags: eukaryotic, facultative-anaerobic, fungal, yeast
 4. pRML1 / pRML2 (Spencer93) : https://openwetware.org/wiki/Yeast_artificial_chromosomes
 
 # Metabolic Models
-1. iMM904: http://bigg.ucsd.edu/models/iMM904
+* [iMM904](http://bigg.ucsd.edu/models/iMM904)
 
-2. iND750: http://bigg.ucsd.edu/models/iND750
+* [iND750](http://bigg.ucsd.edu/models/iND750)
+
+* [ATCC 204508 / S288c](http://www.ebi.ac.uk/biomodels-main/BMID000000141353)
