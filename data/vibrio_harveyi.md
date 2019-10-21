@@ -22,6 +22,9 @@ As Vibrio harveyi is a bacteria found in sea water, it can not survive without s
 # Biobrick Parts
 1. LacI-mRFP: http://parts.igem.org/Part:BBa_J04450
 
+# Whole Cell Metabolism SBML Model
+* [ATCC BAA-1116 / BB120](http://www.ebi.ac.uk/biomodels-main/BMID000000141415) 
+
 # Vectors
 1. pRK2073 helper plasmid
 2. pBBR1MCS5 - genta conjugative plasmid:
