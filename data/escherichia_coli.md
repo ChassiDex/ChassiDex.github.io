@@ -33,6 +33,7 @@ https://www.atcc.org/products/all/25922.aspx
 # Metabolic models
 * [iECD_1391](http://bigg.ucsd.edu/models/iECD_1391)
 * [iB21_1397](http://bigg.ucsd.edu/models/iB21_1397)
+* [K12](http://www.ebi.ac.uk/biomodels-main/BMID000000141304) 
 
 # Other online resources
 * [Ecoliwiki](http://ecoliwiki.net/colipedia)
