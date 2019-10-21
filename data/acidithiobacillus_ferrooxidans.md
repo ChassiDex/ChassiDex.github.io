@@ -26,6 +26,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548112/
 2. Comparative Genomics of the Extreme Acidophile Acidithiobacillus thiooxidans Reveals Intraspecific Divergence and Niche Adaptation:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000751/
 
+# Whole Cell Metabolism SBML model
+1. strain ATCC 23270 / DSM 14882 / NCIB 8455:
+http://www.ebi.ac.uk/biomodels-main/BMID000000141497
+
 # Biobrick Parts
 1. Iron oxidase generator: http://parts.igem.org/Part:BBa_K2055425
 
