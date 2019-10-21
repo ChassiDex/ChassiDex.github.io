@@ -13,3 +13,6 @@ tags: prokaryotic, facultative-anaerobic, gram-negative, magnetotactic
 
 # Vectors
 1. Cryptic-Plasmid-Based Shuttle Vector: http://aem.asm.org/content/69/7/4274.short
+
+# Whole Cell Metabolism SBML Models
+* [AMB-1 / ATCC 700264](http://www.ebi.ac.uk/biomodels-main/BMID000000141680)
