@@ -42,6 +42,7 @@ tags: eukaryotic, facultative-anaerobic, fungal, yeast
 
 # Whole Cell Metabolism SBML Models
 * [iLC915](http://biomodels.caltech.edu/MODEL1507180065#Overview)
+* [iPP668 / PpaMBEL1254 / iLC915](https://www.ebi.ac.uk/biomodels/MODEL1508040001)
 * [iPP668](https://www.ebi.ac.uk/compneur-srv/biomodels-main/MODEL1507180023)
 
 
