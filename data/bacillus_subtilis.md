@@ -48,8 +48,10 @@ tags: prokaryotic, facultative-anaerobic, gram-positive, endosporulating
 3. PAC7: http://subtiwiki.uni-goettingen.de/wiki/index.php/PAC7
 4. pBaSysBioII: https://www.ncbi.nlm.nih.gov/pubmed/20150235
 
-# Metabolic Models
-1. iYO844: http://bigg.ucsd.edu/models/iYO844
+# Whole-Cell Metabolism Model
+* [iYO844](http://bigg.ucsd.edu/models/iYO844)
+* [iYO844](https://www.ebi.ac.uk/biomodels/MODEL1507180013)
+* [iBsu1103](https://www.ebi.ac.uk/biomodels/MODEL1507180015)
 
 # Other online resources
 1. SubtiWiki: http://subtiwiki.uni-goettingen.de/
