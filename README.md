@@ -9,7 +9,7 @@ The python script needs to be run every time the data is updated. This requires 
 The static site is deployed using netlify.com under our custom domain chassidex.org. The tool is linked to the GitHub repository. It is also configured to run the python script and redeploy the site if any changes are made on our GitHub repo. Hence, any changes on the data contained in the markdown files will immediately reflect on our site.
 
 # Wiki links
-ChassiDex started out as an iGEM project by Team IIT-Madras under the software track in 2017 and we are continuing the work as a cross track software project in 2018 though we are working on foundational advance. 
+ChassiDex started out as an iGEM project by Team IIT-Madras under the software track in 2017 and we are continuing the work as a cross track software project in 2018 though we are working on foundational advance. This year in 2019, we have added Whole cell metabolism models for most of the organisms along with addition of Fusarium solani.
 - 2017 wiki: http://2017.igem.org/Team:IIT-Madras
 - 2018 wiki: http://2018.igem.org/Team:IIT-Madras
 - 2019 wiki: http://2019.igem.org/Team:IIT-Madras
