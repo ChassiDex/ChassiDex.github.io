@@ -4,7 +4,7 @@ color: 3
 tags: eukaryotic, fungal, filamentous fungus
 ---
 # Growth Characteristics
-* Temperature: 24°C
+* Temperature: 24°C - 30°C
 * Atmosphere: Typical aerobic
 
 ## References:
