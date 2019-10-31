@@ -1,7 +1,7 @@
 ---
 name: Fusarium solani
 color: 3
-tags: eukaryotic, fungal
+tags: eukaryotic, fungal, filamentous fungus
 ---
 # Growth Characteristics
 * Temperature: 24°C
