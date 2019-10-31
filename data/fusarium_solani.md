@@ -1,7 +1,7 @@
 ---
 name: Fusarium solani
 color: 1
-tags: eukaryotic, filamentous fungi
+tags: eukaryotic, fungal
 ---
 # Culture Sources
 1. ATCC: https://www.atcc.org/products/all/60860.aspx#
