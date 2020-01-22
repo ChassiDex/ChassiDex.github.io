@@ -52,6 +52,4 @@ tags: eukaryotic, facultative-aerobic, gram-neutral, sporulating
 
 # References
 
-[^gc1]: http://2014.igem.org/wiki/images/5/59/LMU_Munich14_Media.pdf
-
-[^gc2]: https://2019.igem.org/Team:IIT-Madras
+* [Shashank](https://2019.igem.org/Team:IIT-Madras)
