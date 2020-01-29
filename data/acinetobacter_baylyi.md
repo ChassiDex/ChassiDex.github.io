@@ -5,7 +5,7 @@ tags: prokaryotic, aerobic, gram-negative, naturally-competent
 ---
 # Applications
 
-It is a non-pathogenic, nutrionally versatile, naturally competent organism that can be used in various applications.
+It is a non-pathogenic, nutritionally versatile, naturally competent organism that can be used in various applications.
 
 # Strains
 - ADP1
@@ -22,12 +22,12 @@ http://barricklab.org/twiki/bin/view/Lab/ProtocolList#Acinetobacter_baylyi_ADP1
 # Vectors
 - [pBAV1K](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255645/pdf/zam280.pdf)
 
-# Biobrick Parts
-- [BBa_K2146001](http://parts.igem.org/Part:BBa_K2146001): *A. baylyi* origin of replication
-- [BBa_K2146003](http://parts.igem.org/Part:BBa_K2146003): *A. baylyi* shuttle vector with spectinomycin resistance.
-- [BBa_K2146004](http://parts.igem.org/Part:BBa_K2146004): *A. baylyi* shuttle vector with cefotaxime resistance.
-- [BBa_K2146005](http://parts.igem.org/Part:BBa_K2146005): *A. baylyi* shuttle vector with amikacin resistance.
-- [BBa_K2146006](http://parts.igem.org/Part:BBa_K2146006): *A. baylyi* shuttle vector with cefotaxime resistance, containing reporter gene gusA
+# BioBrick Parts
+- [BBa_K2146001](http://parts.igem.org/Part:BBa_K2146001): _*A. baylyi*_ origin of replication
+- [BBa_K2146003](http://parts.igem.org/Part:BBa_K2146003): _*A. baylyi*_ shuttle vector with spectinomycin resistance.
+- [BBa_K2146004](http://parts.igem.org/Part:BBa_K2146004): _*A. baylyi*_ shuttle vector with cefotaxime resistance.
+- [BBa_K2146005](http://parts.igem.org/Part:BBa_K2146005): _*A. baylyi*_ shuttle vector with amikacin resistance.
+- [BBa_K2146006](http://parts.igem.org/Part:BBa_K2146006): _*A. baylyi*_ shuttle vector with cefotaxime resistance, containing reporter gene gusA
 
 # Whole Cell SBML Model
 * [ADP1](https://www.ebi.ac.uk/biomodels/MODEL1949107276#Overview)

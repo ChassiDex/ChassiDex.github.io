@@ -12,18 +12,18 @@ This bacteria is an advantageous good engineerable chassis because it can respon
 
 
 # Growth Characteristics
-As Vibrio harveyi is a bacteria found in sea water, it can not survive without salt in the medium. LB can be enough but Luria Marine is better.
+As _*Vibrio harveyi*_ is a bacteria found in sea water, it can not survive without salt in the medium. LB can be enough but Luria Marine is better.
 
 
 # Transformation Protocols
 1. Triparental conjugation: https://pub.uni-bielefeld.de/publication/1659456
 
 
-# Biobrick Parts
+# BioBrick Parts
 1. LacI-mRFP: http://parts.igem.org/Part:BBa_J04450
 
 # Whole Cell Metabolism SBML Model
-* [ATCC BAA-1116 / BB120](http://www.ebi.ac.uk/biomodels-main/BMID000000141415) 
+* [ATCC BAA-1116 / BB120](http://www.ebi.ac.uk/biomodels-main/BMID000000141415)
 
 # Vectors
 1. pRK2073 helper plasmid

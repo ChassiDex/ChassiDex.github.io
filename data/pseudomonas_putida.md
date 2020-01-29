@@ -13,3 +13,6 @@ tags: prokaryotic, aerobic, gram-negative
 
 # Whole Cell SBML Metabolism Model
 * [KT2440](https://www.ebi.ac.uk/biomodels/MODEL1407250000)
+
+# Acknowledgements
+Data curated by iGEM 2017 team IIT Madras: igem@smail.iitm.ac.in

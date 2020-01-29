@@ -19,3 +19,6 @@ tags: prokaryotic, facultative-anaerobic, gram-positive, probiotic, lactose-ferm
 
 # Whole Cell Metabolism SBML Models
 * [ATCC BAA-250 / LMG 18311](http://www.ebi.ac.uk/biomodels-main/BMID000000141855)
+
+# Acknowledgements
+Data curated by iGEM 2017 team IIT Madras: igem@smail.iitm.ac.in
